@@ -1,1 +1,14 @@
 # qa_python
+Test_list:
+	test_initialization_default_genre_true
+	test_initialization_default_genre_age_rating_true
+	test_add_new_book_valid_name_true
+	test_new_book_invalid_name_true
+	test_set_book_genre_true
+	test_get_book_genre_true
+	test_get_books_with_specific_genre_true
+	test_get_books_genre_true
+	test_books_for_children_true
+	test_add_book_in_favorites_true
+	test_delete_book_from_favorites_true
+	test_get_list_of_favorites_books_true
